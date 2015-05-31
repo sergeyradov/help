@@ -1,0 +1,3 @@
+If you've queued a test on the Shared Grid node and it hasn't reached the `running` status yet, there may be a long wait on this queue as this is shared infrastructure.
+
+If you wish to avoid the queue on the Shared Grid we recommend you start your own on Demand or Hosted Grid, available to our paid customers. Each account plan includes complimentary On Demand grid node hours. More details are on our [pricing page](https://flood.io/pricing).

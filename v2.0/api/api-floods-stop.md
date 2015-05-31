@@ -1,0 +1,1 @@
+Stops a flood test and returns its status. This may be a long-running request.

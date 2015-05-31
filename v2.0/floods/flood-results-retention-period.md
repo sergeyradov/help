@@ -1,0 +1,3 @@
+Each of our [account plans](https://flood.io/pricing) have a fixed period for which we retain flood test results. After this period has expired for your current plan, results are automatically archived and will no longer be available through the dashboard.
+
+This helps us archive large amounts of test data and manage operating costs. We never delete your test data, we simply put it on ice for long term storage. If you need access to old test results then simply upgrade to a paid or higher account plan. Once your plan is upgraded, your data will be available within 24 hours. Retrieval from archives typically complete within 3-5 hours.

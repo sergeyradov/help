@@ -1,0 +1,1 @@
+Gets detailed flood test results in .json or .csv format.  This may be a long-running request.

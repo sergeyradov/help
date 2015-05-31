@@ -1,0 +1,1 @@
+Return details for a particular grid UUID.
